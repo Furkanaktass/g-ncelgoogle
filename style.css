@@ -1,0 +1,95 @@
+.profil{
+    float: right;
+    margin-right:1px;
+    width: 50px;
+    height: 50px;
+}
+.secenekler{
+    width: 18px;
+    height: 18px;
+    float: right;
+    margin-right: 22px;
+    margin-top: 18px;
+}
+.ımages{
+    float: right;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    margin-right: 16px ;
+    margin-top: 10px;
+    color: black;
+}
+.gmail{
+    float: right;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    margin-right: 18px;
+    margin-top: 10px;
+    color: black;
+}
+.logo{
+    display: block;
+    margin: auto;
+    width: 400px;
+    margin-top: 130px;
+}
+#search-bar{
+    background-color: transparent;
+    margin: auto;
+    display: block;
+    width: 520px;
+    height: 40px;
+}
+#img{
+    width: 428px;
+    height: 35px;
+    display: block;
+    margin: auto;
+    border-radius: 50px;
+}
+#gorsel{
+    float: left;
+    display: block;
+    line-height: 5px;
+}
+.footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -510px;
+    line-height: 10px;
+    list-style: none;
+    background-color: #f2f2f2 ;
+  }
+  
+  .footerli {
+    float: left;
+  }
+  
+  .footerli a {
+    display: block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+  }
+  
+  .footerli a:hover {
+    text-decoration: underline;
+  }
+  .buttons {
+    display: block;
+    text-align: center;
+    margin-top: 25px;
+}
